@@ -1,0 +1,24 @@
+# Virtual Environments
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Mac OS
+.DS_Store
+
+# Data and Outputs (Too large for Git)
+student_resource/dataset/
+student_resource/output/
+student_resource/*.zip
+*.tsv
+
+# IDEs
+.idea/
+.vscode/
+student_resource.zip

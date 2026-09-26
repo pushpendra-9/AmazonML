@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+tqdm
+lightgbm
+rapidfuzz
+faiss-cpu
+torch
